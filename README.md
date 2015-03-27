@@ -27,14 +27,9 @@
 ![Thumbnails/topluu.png] (https://raw.githubusercontent.com/mertsimsek/besiege/master/Thumbnails/topluu.png)
 ![Thumbnails/uffff.png] (https://raw.githubusercontent.com/mertsimsek/besiege/master/Thumbnails/uffff.png)
 ![Thumbnails/uzunadam.png] (https://raw.githubusercontent.com/mertsimsek/besiege/master/Thumbnails/uzunadam.png)
-<<<<<<< HEAD
-*mertsimsek*
-test
-=======
 ---
 ---
 ## Contact
 ---
 You can contact with me from Twitter for any purpose.
 [Mert Şimşek](http://twitter.com/orhunmertsimsek)
->>>>>>> 8e1c9a81b29da7b502ee112324d4dd9bcab0375a
